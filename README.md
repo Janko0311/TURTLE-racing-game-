@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./banner.png" alt="My Banner" width="100%">
+</p>
+
 # TURTLE-racing-game
 Explore some secret built in module in python : >
 
